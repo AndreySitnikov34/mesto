@@ -1,0 +1,10 @@
+.add__plus {
+    height: 50%;
+    align-items: center;
+}
+@media (max-width: 758px) {
+    .add__plus {
+        height: 1.8vh;
+        padding-bottom: 0.5vh;
+    }
+}

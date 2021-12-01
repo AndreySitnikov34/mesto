@@ -1,0 +1,9 @@
+.form__cell_second {
+    margin-top: 1.7vh;
+    outline: none;
+}
+@media (max-width: 767px) {
+    .form__cell_second {
+        margin-top: 7.3%;
+    }
+}
