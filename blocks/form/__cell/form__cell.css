@@ -17,9 +17,9 @@
 .form__cell:focus {
   outline-color: #fff6c5;
 }
-@media (max-width: 767px) {
+@media (max-width: 901px) {
   .form__cell {
     width: 95%;
-    margin-top: 13%;
+    margin-top: 8%;
   }
 }

@@ -14,7 +14,7 @@
   text-align: center;
   cursor: pointer;
 }
-@media (max-width: 767px) {
+@media (max-width: 901px) {
   .form__submit-button {
     width: 84%;
     height: 45px;

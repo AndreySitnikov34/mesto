@@ -13,8 +13,8 @@
   align-items: center;
   z-index: 1;
 }
-@media (max-width: 424px) {
+@media (max-width: 901px) {
   .popup {
-    margin-top: -63%;
+    top: -192px;
   }
 }

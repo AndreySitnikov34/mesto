@@ -17,10 +17,10 @@
 /*        text-align: center;*/
 /*    }*/
 /*}*/
-@media (max-width: 767px) {
+@media (max-width: 901px) {
   .form__heading {
     width: 84%;
-    margin-top: 26px;
+    margin: 27px auto 46px;
     font-size: 18px;
     line-height: 22px;
     /*text-align: center;*/

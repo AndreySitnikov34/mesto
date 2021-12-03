@@ -1,12 +1,18 @@
 .user__info-edit-button {
   width: 22px;
+  height: 22px;
   cursor: pointer;
   background-color: black;
   margin-bottom: -10px;
   padding: 0;
   line-height: 0;
   border: none;
-  /*outline: none;*/
+  outline: none;
+  background-image: url("../../../../images/cursor__pencil23.svg");
+  background-size: cover;
+  background-color: transparent;
+  box-sizing: border-box;
+  border-radius: 2px;
 }
 .user__info-edit-button:hover {
   opacity: 0.6;
@@ -17,8 +23,9 @@
 
 @media (max-width: 901px) {
   .user__info-edit-button {
-    width: 18px;
-    height: 18px;
+    background-image: url("../../../../images/cursor__pencil17.svg");
+    width: 17px;
+    height: 17px;
     margin: 5px 0 0 0;
     padding: 0;
   }
