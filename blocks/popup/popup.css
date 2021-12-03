@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   position: fixed;
-  top: -125px;
+  top: 0;
   right: 0;
   bottom: 0;
   left: -8px;
@@ -13,8 +13,8 @@
   align-items: center;
   z-index: 1;
 }
-@media (max-width: 901px) {
+/* @media (max-width: 901px) {
   .popup {
-    top: -192px;
+    top: 0;
   }
-}
+} */
